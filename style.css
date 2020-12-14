@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+#side1{
+    /* Room Fresheners */
+position: absolute;
+width: 204px;
+height: 61px;
+left: 0px;
+top: 26px;
+
+font-family: Padauk;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 10px;
+/* or 56% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+}
+
+#middle{
+    position: absolute;
+    height:36px;
+    width:300px;
+    left: 593px;
+    top: 43px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.sideimg{
+    position: absolute;
+width: 40px;
+height: 30px;
+left: 1236px;
+top: 39px;
+
+}
+#perfume1{
+/* perfume 3 */
+
+position: absolute;
+width: 439.03px;
+height: 428.45px;
+left: 800px;
+top: 32.14px;
+border-radius: 42px;
+
+}
+#perfume2{
+    position: absolute;
+    width: 449.31px;
+    height: 435.71px;
+    left: 392px;
+    top:100px;
+}
+
+#title1{
+    position: absolute;
+    width: 399px;
+    height: 231px;
+    left: 40px;
+    top: 250px;
+    text-align: center;
+    font-family: 'Goldman', cursive;
+}
+.box{
+    position: absolute;
+    width: 183px;
+    height: 49px;
+    left: 154px;
+    top: 380px;
+    background: #000000;
+}
+.subtitle1{
+    position: absolute;
+    width: 254px;
+    height: 36px;
+    left: 60px;
+    top: 2px;
+    color: white;
+    font-family: 'Goldman', cursive;  
+}
+
+.catalogue{
+    position: absolute;
+    width: 686px;
+    height: 450px;
+    background-color: #070101;
+   top: 550px;
+   left: 20px;
+   font-family: 'Goldman', cursive;
+}
+
+.subtitle2{
+    position: absolute;
+    left: 24px;
+    top: 90px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color:white; 
+    font-family: 'Goldman', cursive;   
+}
+
+.catalogue1{
+    position: absolute;
+    width: 686px;
+    height: 450px;
+    background-color: #070101;
+    top: 550px;
+    left: 735px;
+    font-family: 'Goldman', cursive;
+}
+.sliderimg{
+    float: left; 
+    margin-right: 6px;
+}
+.slidecontainer {
+    width: 100%;
+  }
+  
+  .slider {
+    -webkit-appearance: none;
+    width: 66%;
+    height: 10px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .slider:hover {
+    opacity: 1;
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 10px;
+    background:black;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+  }
+
+  .slidetext{
+      position: absolute;
+      top:2100px;
+      left: 850px;
+      text-align: center;
+      padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Goldman', cursive;
+  }
+
+  button{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .footer{
+      background-color: black;
+      height:550px;
+      width:1480px;
+      color:white;
+      font-family: 'Goldman', cursive;
+      
+  }
+.subtitle6{
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 16px;
+}
+
+.myacc{
+    text-align: left;
+    padding: 10px;
+}
+
+.help{
+    position: absolute;
+    left: 318px;
+    top: 2620px;
+    
+}
+.aboutus{
+    position: absolute;
+    left: 522px;
+    top: 2620px;
+    padding: 2px;
+}
+/*#follow{
+    position: absolute;
+    top:3020px;
+}*/
